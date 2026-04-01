@@ -1,0 +1,13 @@
+# Ignore large datasets
+Raw/
+Unique_Raw/
+Equal_sample/
+
+# Optional: ignore other heavy stuff
+*.zip
+*.tar
+*.h5
+*.pt
+*.pth
+__pycache__/
+.venv/
