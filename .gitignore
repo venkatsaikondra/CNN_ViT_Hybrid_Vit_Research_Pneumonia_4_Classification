@@ -3,6 +3,10 @@ Raw/
 Unique_Raw/
 Equal_sample/
 
+# model weights
+*.keras
+checkpoints/
+
 # Optional: ignore other heavy stuff
 *.zip
 *.tar
